@@ -37,3 +37,9 @@ Weakness: Cost of calculator increases as features added in the calculator incre
 Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
 
 Threats: Slower growth in an innovation always threat for the company in this dynamic world.
+
+#DETAIL REQUIREMENTS:
+
+1.High Level Requirements
+
+2.Low Level Requirements

@@ -15,3 +15,17 @@ In addition the advanced calculator includes
 2.Factorial
 3.Log value
 4.Power
+
+#Defining System:
+
+Design and testing operations of calculator using unit testing algorithm.
+
+SWOT analysis:
+
+Strengths: Innovative, User-friendly.
+
+Weakness: Cost of calculator increases as features added in the calculator increase.
+
+Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
+
+Threats: Slower growth in an innovation always threat for the company in this dynamic world.

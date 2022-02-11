@@ -67,5 +67,6 @@ How: Calculates the user input and gives the output.
 | :- | :- | :- |
 |LL01_HL01|` `Calculates Modulus between two numbers(%)| Implemented |
 |LL02_HL02|` `Calculates Factorial of the number|Implemented |
-|LL03_HL03|` `Calculates Power of the number|Implemented |
+|LL03_HL03|` `Calculates Power of the number(^)|Implemented |
+|LL04|` `Calculates the basic operation|Implemented |
 

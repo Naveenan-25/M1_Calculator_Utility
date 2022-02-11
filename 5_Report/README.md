@@ -5,7 +5,7 @@
 
 # DISADVANTAGES
 
-* There is some limit for a calculator in which not all complex problems are solved. Beyond certain limits the expected output will be error, and hence the following output will be changed. This is the main disadvantages of the calculator.   
+* There is some limit for a calculator in which it cannot solve all kinds of complex probelms like divisible by zero conditions. Beyond certain limits the expected output will be error, and hence the following output will be changed. This is the main disadvantages of the calculator.   
 
 
 # CONCLUSION

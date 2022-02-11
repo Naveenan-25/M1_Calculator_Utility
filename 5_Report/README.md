@@ -1,3 +1,6 @@
+# PROJECT_GOALS
+
+* The main objective of the calculator is to perform a number of calculations in response to user supplied input. TThe possible number of calculations is pre-defined. The results of the calculations may be presented in summary or detailed format. It is these outputs that are the main business functions of the calculator. The calculation and results are displayed in the output page.
 
 # ADVANTAGES
 
@@ -10,5 +13,5 @@
 
 # CONCLUSION
 
-* Finally I conclude that using the C programing we can build a calculator which performs the basic operations and complex operations. I have learned to make our code more efficient and also works under any kind situation. Firstly the concepts of the C program which I have used in the code is very understandable and userfriendly, from this project I gained many experience related to industrial structure that how should the project should be started and ended in industrial and civilized manner.
+* Finally I conclude that using the C programing we can build a calculator which performs the basic operations and complex operations. I have learned to make our code more efficient and also works under any kind situation. The concepts of C program which I have used in the code is very understandable and userfriendly, from this project I gained many experience related to industrial structure that how should the project should be started and ended in industrial and civilized manner.
 

@@ -24,7 +24,7 @@ Advanced calculator generally includes:
 
 4.Logvalue
 
-#Defining System:
+Defining System:
 
 Design and testing operations of calcualtor using unit testing algorithm.
 

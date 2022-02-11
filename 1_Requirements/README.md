@@ -1,12 +1,12 @@
 #REQUIREMENTS:
-#INTRODUCTION:The calculator project is the application based mini project, which is used to predict the by taking input 
-user. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach (Linux and Windows).
+#INTRODUCTION:The calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division. And also the complex operations such as modulus, factorial of the number, finding the power, squareroot of the given number, log value of the number.   
 
 #RESEARCH
-People who don’t have technical knowledge for calculation can use this application to perform various operation based on the user's 
-choice such as addition, subraction, multiplication, division, etc. However defining a calculator generally includes:
+Generally, many people in the various feilds are based on the calculator for their daily activities. people who don’t have technical knowledge for calculation can use this application to perform various operation based on the user's choice such as addition, subraction, multiplication, division, etc. 
 
-1.Adiition
+Basic operation calculator generally includes:
+
+1.Addition
 
 2.Subraction
 
@@ -30,18 +30,19 @@ Design and testing operations of calcualtor using unit testing algorithm.
 
 #SWOT analysis:
 
-Strengths: User-friendly.
+Strengths: User-friendly, perform complex operations, less time consumement.
 
-Weakness: As the 
+Weakness: As the features of the calculator decrease then the cost of the calculator decrease.
 
-Opportunities: We know that we mostly use pen and paper for calculation. We can overcome this method by using the calculator.
+Opportunities: Most of the calculations are done using pen and paper. We can overcome this method by using the calculator.
 
-Threats: Slower growth in an innovation always threat for the company in this dynamic world.
+Threats: Some limits has been there for the most complex problems which the calculator can't do.
 
 #4’W and 1’H
 
+Who: 
 
-What: Calculator
+What: Calculator Application
 
 Where: School, Science, domestic, industries, Technology, Banking sectors.
 

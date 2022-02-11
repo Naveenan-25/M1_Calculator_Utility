@@ -1,7 +1,7 @@
-#REQUIREMENTS:
+# REQUIREMENTS:
 #INTRODUCTION:The calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division. And also the complex operations such as modulus, factorial of the number, finding the power, squareroot of the given number, log value of the number.   
 
-#RESEARCH
+# RESEARCH
 Generally, many people in the various feilds are based on the calculator for their daily activities. people who don’t have technical knowledge for calculation can use this application to perform various operation based on the user's choice such as addition, subraction, multiplication, division, etc. 
 
 Basic operation calculator generally includes:
@@ -24,7 +24,7 @@ Advanced calculator generally includes:
 
 4.Logvalue
 
-#Defining System:
+# Defining System:
 
 Design and testing operations of calcualtor using unit testing algorithm.
 
@@ -51,7 +51,7 @@ When: Need for calculation.
 How: Calculates the user input and gives the output.
 
 
-HIGH LEVEL REQUIREMNETS:
+#HIGH LEVEL REQUIREMNETS:
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |
@@ -61,7 +61,7 @@ HIGH LEVEL REQUIREMNETS:
 |`    `HL04|` `  Squareroot Operation| Implemented |
 |`    `HL05|` `  Logvalue Operation| Implemented |
 
-LOW LEVEL REQUIREMENTS
+#LOW LEVEL REQUIREMENTS
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |

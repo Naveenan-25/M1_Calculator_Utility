@@ -55,17 +55,17 @@ How: Calculates the user input and gives the output.
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |
-|`    `HL01|` `  Modulus Operation   | Implemented |
-|`    `HL02|` `  Factorial Operation  | Implemented |
-|`    `HL03|` `  Power Operation | Implemented |
-|`    `HL04|` `  Squareroot Operation| Implemented |
-|`    `HL05|` `  Logvalue Operation| Implemented |
+|`    `HL01|` `  Calculates Modulus Operation   | Implemented |
+|`    `HL02|` `  Calculates Factorial Operation  | Implemented |
+|`    `HL03|` `  Calculates Power Operation | Implemented |
+|`    `HL04|` `  Calculates Squareroot Operation| Implemented |
+|`    `HL05|` `  Calculates Logvalue Operation| Implemented |
 
 # LOW LEVEL REQUIREMENTS
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |
-|LL01_HL01|` `Modulus Operation| Implemented |
-|LL02_HL02|` `Factorial Operation |Implemented |
-|LL03_HL03|` `Power Operation|Implemented |
-|LL04|` `Squareroot Operation| Implemented |
+|LL01_HL01|` `Calculates Modulus between two numbers(%)| Implemented |
+|LL02_HL02|` `Calculates Factorial of the number|Implemented |
+|LL03_HL03|` `Calculates Power of the number|Implemented |
+

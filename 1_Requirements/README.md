@@ -24,11 +24,11 @@ Advanced calculator generally includes:
 
 4.Logvalue
 
-# Defining System:
+#Defining System:
 
 Design and testing operations of calcualtor using unit testing algorithm.
 
-#SWOT analysis:
+# SWOT analysis:
 
 Strengths: User-friendly, perform complex operations, less time consumement.
 
@@ -38,7 +38,7 @@ Opportunities: Most of the calculations are done using pen and paper. We can ove
 
 Threats: Some limits has been there for the most complex problems which the calculator can't do.
 
-#4’W and 1’H
+# 4’W and 1’H
 
 Who: Anyone who needs the use of calculator like students, teachers, banks.
 
@@ -51,7 +51,7 @@ When: Need for calculation.
 How: Calculates the user input and gives the output.
 
 
-#HIGH LEVEL REQUIREMNETS:
+# HIGH LEVEL REQUIREMNETS:
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |
@@ -61,7 +61,7 @@ How: Calculates the user input and gives the output.
 |`    `HL04|` `  Squareroot Operation| Implemented |
 |`    `HL05|` `  Logvalue Operation| Implemented |
 
-#LOW LEVEL REQUIREMENTS
+# LOW LEVEL REQUIREMENTS
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |

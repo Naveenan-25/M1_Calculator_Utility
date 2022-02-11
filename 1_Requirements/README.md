@@ -55,9 +55,9 @@ How: Calculates the user input and gives the output.
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |
-|`    `HL01|` `  Calculates Modulus Operation   | Implemented |
+|`    `HL01|` `  Calculates Modulus Operation (%) | Implemented |
 |`    `HL02|` `  Calculates Factorial Operation  | Implemented |
-|`    `HL03|` `  Calculates Power Operation | Implemented |
+|`    `HL03|` `  Calculates Power Operation(^) | Implemented |
 |`    `HL04|` `  Calculates Squareroot Operation| Implemented |
 |`    `HL05|` `  Calculates Logvalue Operation| Implemented |
 

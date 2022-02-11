@@ -65,7 +65,7 @@ How: Calculates the user input and gives the output.
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |
-|LL01\_HL01|` `Addition Operation| Implemented |
-|LL02\_HL02|` `Subtraction Operation |Implemented |
-|LL03\_HL03|` `Multiplication Operation|Implemented |
+|LL01|` `Addition Operation| Implemented |
+|LL02|` `Subtraction Operation |Implemented |
+|LL03|` `Multiplication Operation|Implemented |
 |LL04|` `Division Operation| Implemented |

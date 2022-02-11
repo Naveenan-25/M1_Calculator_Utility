@@ -16,6 +16,6 @@
 |L\_02|H\_02|Factorial Operation|5|120|120|
 |L\_03|H\_03|Power Operation|2^3|8|8|
 |L\_04|H\_04|Squareroot Operation|4|2|2|
-|L\_05|H\_05|Logvalue Operation|5||1.609438|1.609438|
+|L\_05|H\_05|Logvalue Operation|5|1.609438|1.609438|
 
 

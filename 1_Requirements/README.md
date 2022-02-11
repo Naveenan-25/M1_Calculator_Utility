@@ -61,6 +61,7 @@ HIGH LEVEL REQUIREMNETS:
 |`    `HL04|` `  Squareroot Operation| Implemented |
 |`    `HL05|` `  Logvalue Operation| Implemented |
 
+LOW LEVEL REQUIREMENTS
 
 |`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |

@@ -5,9 +5,10 @@
 
 # DISADVANTAGES
 
+* There is some limit for a calculator in which not all complex problems are solved. Beyond certain limits the expected output will be error, and hence the following output will be changed. This is the main disadvantages of the calculator.   
 
 
 # CONCLUSION
 
-Finally I conclude that using the C programing 
+Finally I conclude that using the C programing we can build a calculator which performs the basic operations and complex operations. I have learned to make our code more efficient and also works under any kind situation. Firstly the concepts of the C program which I have used in the code is very understandable and userfriendly, from this project I gained many experience related to industrial structure that how should the project should be started and ended in industrial and civilized manner.
 

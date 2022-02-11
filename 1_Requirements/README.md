@@ -40,20 +40,20 @@ Threats: Some limits has been there for the most complex problems which the calc
 
 #4’W and 1’H
 
-Who: 
+Who: Anyone who needs the use of calculator like students, teachers, banks.
 
-What: Calculator Application
+What: Calculator Application.
 
-Where: School, Science, domestic, industries, Technology, Banking sectors.
+Where: School, Science, industries, Banking sectors.
 
 When: Need for calculation.
 
-How: Calculates the user input and gives the output:
+How: Calculates the user input and gives the output.
 
 
 HIGH LEVEL REQUIREMNETS:
 
-|`      `*ID|`                 `Description|`            `Status*|
+|`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |
 |`    `HL01|` `  Modulus Operation   | Implemented |
 |`    `HL02|` `  Factorial Operation  | Implemented |
@@ -62,7 +62,7 @@ HIGH LEVEL REQUIREMNETS:
 |`    `HL05|` `  Logvalue Operation| Implemented |
 
 
-|`      `*ID|`                 `Description|`            `Status*|
+|`      `ID|`                 `Description|`            `Status|
 | :- | :- | :- |
 |LL01\_HL01|` `Addition Operation| Implemented |
 |LL02\_HL02|` `Subtraction Operation |Implemented |

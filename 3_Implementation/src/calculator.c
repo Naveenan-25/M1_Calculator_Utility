@@ -1,4 +1,6 @@
-#include"calculator.h"
+#include <stdio.h>
+#include <conio.h>
+#include <math.h>
 
 void addition();
 void subraction();
